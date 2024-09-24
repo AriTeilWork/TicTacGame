@@ -1,0 +1,6 @@
+Player 1: LL (X)
+Player 2: PP (O)
+Current Player: X
+X..
+...
+..O
